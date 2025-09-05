@@ -1,0 +1,5 @@
+br\com\fiap\cliente\Main.class
+br\com\fiap\repositorio\AlunoRepositorioImpl.class
+br\com\fiap\util\HibernateUtil.class
+br\com\fiap\modelo\Aluno.class
+br\com\fiap\repositorio\AlunoRepositorio.class
